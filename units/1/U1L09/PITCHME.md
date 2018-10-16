@@ -22,3 +22,13 @@ What messages do you need to send? What could go wrong?
 ---
 
 ## Protocol Presentations
+
+Note: Show video next
+
+---
+
+## Wrap-up Lesson 9
+
+* Complete reflection questions
+* Try to use complete, properly formed sentences in written responses
+* Tidy up notebooks.
