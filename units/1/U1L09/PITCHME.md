@@ -10,6 +10,15 @@
 
 ## Protocol Poster
 
+Create an *efficient* binary protocol for playing a three-person game of Battleship on a 3x3 board over the Internet simulator.
+
+Efficient means the smallest number of bits that:
+
+* Allows you to play the game accurately.
+* Send the necessary messages.
+
+What messages do you need to send? What could go wrong?
+
 ---
 
 ## Protocol Presentations
