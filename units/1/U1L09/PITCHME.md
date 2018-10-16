@@ -10,7 +10,7 @@
 
 ## Protocol Poster
 
-Create an *efficient* binary protocol for playing a three-person game of Battleship on a 3x3 board over the Internet simulator.
+With your group, create an *efficient* binary protocol for playing a three-person game of Battleship on a 3x3 board over the Internet simulator.
 
 Efficient means the smallest number of bits that:
 
