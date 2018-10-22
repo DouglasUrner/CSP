@@ -12,7 +12,7 @@ Like the real Internet the simulator:
 * Packets may be delivered out of order.
 * Packets may get lost in transit - some packets may never be delivered.
 
-**The Challenge:** given these constraints, design a protocol that ensures reliable delivery of messages across the Internet.
+**Our Challenge:** given these constraints, design a protocol that ensures reliable delivery of messages across the Internet.
 
 ---
 
@@ -26,4 +26,8 @@ Guidelines: Make sure your protocol meets the following criteria:
 * Do not assume the message is known beforehand.
 * Both the sender and receiver must be confident the message was successfully transmitted and reconstructed.
 
+Each member of your group should be on a **different** router.
+
 ---
+
+## Present Your Protocol
