@@ -8,11 +8,11 @@ How do we reliably send messages across an unreliable network?
 
 Please complete the anonymous survey at:
 
-## www.surveymonkey.com/r/2VDHF52
+### www.surveymonkey.com/r/2VDHF52
 
 ---
 
-# Today's Internet Simulator
+## Today's Internet Simulator
 
 Like the real Internet the simulator:
 
@@ -24,7 +24,7 @@ Like the real Internet the simulator:
 
 ---
 
-# Develop Your Protocol
+## Develop Your Protocol
 
 Guidelines: Make sure your protocol meets the following criteria:
 
@@ -38,4 +38,8 @@ Each member of your group should be on a **different** router.
 
 ---
 
-# Present Your Protocol
+## Present Your Protocol
+
+---
+
+# RFC 793 - TCP
