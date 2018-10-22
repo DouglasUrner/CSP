@@ -4,6 +4,14 @@ How do we reliably send messages across an unreliable network?
 
 ---
 
+## TEALS Survey
+
+Please complete the anonymous survey at:
+
+### www.surveymonkey.com/r/2VDHF52
+
+---
+
 ## Today's Internet Simulator
 
 Like the real Internet the simulator:
