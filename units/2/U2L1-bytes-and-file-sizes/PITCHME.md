@@ -16,3 +16,6 @@ Unit 2 Lesson 2 - Compression
 
 ---
 
+## Assessment
+
+Complete the self-checks for lessons 1 and 2
