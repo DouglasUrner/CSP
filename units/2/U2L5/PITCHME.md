@@ -18,3 +18,21 @@ With a partner - experiment with the app for a bit and discuss what is happening
 ---
 
 When you use lossy compression you lose the ability to decompress your information and get back a perfect copy. Even so, people use lossy compression all the time. Can you think of reasons or situations where someone would still use lossy compression?
+
+---
+
+## JPEG
+
+Note:
+
+* JPEG is lossy
+* Lossy means a lower quality image with fewer details
+* Open format, freely usable, but there have still be disputes over "ownership"
+
+---
+
+## MP3 and PNG
+
+---
+
+Lossy compression seems to be "worse" than lossless compression but obviously both are being used all the time. Write down three reasons or situations where someone would be willing to use lossy compression even though it means some loss of quality.
