@@ -17,4 +17,4 @@ With a partner - experiment with the app for a bit and discuss what is happening
 
 ---
 
-### When you use lossy compression you lose the ability to decompress your information and get back a perfect copy. Even so, people use lossy compression all the time. Can you think of reasons or situations where someone would still use lossy compression?
+When you use lossy compression you lose the ability to decompress your information and get back a perfect copy. Even so, people use lossy compression all the time. Can you think of reasons or situations where someone would still use lossy compression?
