@@ -1,5 +1,7 @@
 Eniac
 
+![](images/ENIAC-programmers.jpg)
+
 ---
 
 ![](images/)
