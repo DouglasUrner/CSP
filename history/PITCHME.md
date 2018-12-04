@@ -1,6 +1,6 @@
 Eniac
 
-![](images/ENIAC-programmers.jpg)
+![](history/images/ENIAC-programmers.jpg)
 
 ---
 
