@@ -1,8 +1,8 @@
 ---
 ---
 
-| Start | | |
-| :---  | :--- | :--- |
+| Start | | Summative Assessment | Due (Internal Assessment) |
+| :---  | :--- | :--- | :--- |
 |  | Unit 1 | |
 |  | Unit 2
 |  | Unit 3
