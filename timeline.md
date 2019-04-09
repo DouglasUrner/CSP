@@ -10,5 +10,7 @@
 |  | Explore Task (8 hours)
 |  | Unit 5
 |  | Create Task (12 hours)
-|  | Submission Deadline
+| 02 May 2019 | Submission Deadline
 |  | Test
+|  | Mentor Field Trip
+|  | TEALS CS Fair
