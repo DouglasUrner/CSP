@@ -7,10 +7,12 @@
 |  | Unit 2
 |  | Unit 3
 |  | Unit 4
-|  | Explore Task (8 hours) | Submission | 31 Mar |
-|  | Unit 5
-|  | Create Task (12 hours) | Submission | 12 Apr |
-| 04 Apr 2019 | Start test preparation | |
+| 15 Jan 2019 | Explore Task (8 hours) | Submission |  |
+|  | Explore PT showcase & upload - adjust so that Explore PT is done before end of 1st semester
+| 01 Feb 2019 | Unit 5
+| 18 Mar 2019 | Create Task (12 hours) - spans Spring break | Submission | 17 Apr |
+| 17 Apr 2019 | Create PT showcase & upload (party)
+| 25 Apr 2019 | Start test preparation | |
 | 02 May 2019 | PT Submission Deadline
 | 10 May 2019 | AP Exam
 |  | Mentor Field Trip
