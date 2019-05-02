@@ -11,7 +11,7 @@
 |  | Unit 5
 |  | Create Task (12 hours) | Submission | 12 Apr |
 | 04 Apr 2019 | Start test preparation | |
-| 02 May 2019 | Submission Deadline
-| 10 May 2019 | Test
+| 02 May 2019 | PT Submission Deadline
+| 10 May 2019 | AP Exam
 |  | Mentor Field Trip
 |  | TEALS CS Fair
