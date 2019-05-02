@@ -16,7 +16,7 @@
 | 20 Dec 2019 | Explore PT showcase & upload - adjust so that Explore PT is done before end of 1st semester
 |  | Winter Break
 | 07 Jan 2019 | Unit 5
-|  | Building an App: Mulit-screen App
+|  | Building an App: Multi-screen App
 |  | Building an App: Clicker Game
 |  | Building an App: Color Sleuth
 |  | Building an App: Image Scroller
