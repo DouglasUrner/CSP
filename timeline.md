@@ -27,6 +27,7 @@
 | 25 Apr 2019 | Start test preparation | |
 | 02 May 2019 | PT Submission Deadline
 | 10 May 2019 | AP Exam
+| 13 May 2019 | Unit 6
 |  | Fall Mentor Visit
 |  | Mentor Field Trip
 |  | Spring Mentor Visit
