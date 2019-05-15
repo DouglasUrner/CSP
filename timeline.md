@@ -21,6 +21,11 @@
 |  | Building an App: Color Sleuth
 |  | Building an App: Image Scroller
 |  | Building an App: Canvas Painter
+|  | Assessment 1: (14 questions)
+|  | Assessment 2: (17 questions)
+|  | Assessment 3: Loops (19 questions)
+|  | Assessment 4: (12 questions)
+|  | Assessment 5: Pseudocode Practice (21 questions)
 | 18 Mar 2019 | Create Task (12 hours) - spans Spring break | Submission | 17 Apr |
 |  | Spring Break
 | 17 Apr 2019 | Create PT showcase & upload (party)
