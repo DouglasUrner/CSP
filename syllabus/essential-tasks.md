@@ -1,8 +1,8 @@
 # Computer Science Principles
 
-### Driving Question:** 
+### Driving Question:
 
-## Essential Tasks**
+## Essential Tasks
 
 * Analyzing the effects of developments in computing
 * Designing and implementing creative solutions and artifacts
