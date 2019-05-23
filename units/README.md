@@ -1,10 +1,10 @@
 # CSP Units
 
 * Unit 1: The Internet
-* Unit 2: 
+* Unit 2: Representing Data
 * Unit 3: Introduction to Programming
 * Explore PT
-* Unit 4: 
+* Unit 4: Encryption
 * Unit 5: Building Apps
 * Create PT
-* Unit 6: Data
+* Unit 6: Data & Society
