@@ -8,4 +8,5 @@
 * [ICE Used Facial Recognition to Mine State Driver’s License Databases](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html), 2019 - 
 * [Twitter Backs Off Broad Limits on ‘Dehumanizing’ Speech](https://www.nytimes.com/2019/07/09/technology/twitter-ban-speech-dehumanizing.html), 2019 - 
 * [What Do Teenagers Need? Ask the Family Dog](https://www.nytimes.com/2019/07/04/well/family/teenagers-pets-dogs.html), 2019 - 
-* [](), 2019 - 
+* [‘This Is Quite Gay!’](https://www.nytimes.com/2019/07/06/opinion/sunday/social-media-homophobia.html), 2019 - 
+* [You’re Hired. Now Wear This Headset to Learn the Job.](https://www.nytimes.com/2019/07/10/business/microsoft-hololens-job-training.html), 2019 - 
