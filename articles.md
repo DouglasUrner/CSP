@@ -6,6 +6,6 @@
 * [How to Overcome Failure](https://www.nytimes.com/guides/working-womans-handbook/how-to-overcome-failure), 2019 - 
 * [Your Inbox Is Spying on You](https://www.nytimes.com/2019/07/09/opinion/email-tracking.html), 2019 - 
 * [ICE Used Facial Recognition to Mine State Driver’s License Databases](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html), 2019 - 
-* [](), 2019 - 
+* [Twitter Backs Off Broad Limits on ‘Dehumanizing’ Speech](https://www.nytimes.com/2019/07/09/technology/twitter-ban-speech-dehumanizing.html), 2019 - 
 * [](), 2019 - 
 * [](), 2019 - 
