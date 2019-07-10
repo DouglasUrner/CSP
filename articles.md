@@ -10,3 +10,4 @@
 * [What Do Teenagers Need? Ask the Family Dog.](https://www.nytimes.com/2019/07/04/well/family/teenagers-pets-dogs.html), 2019 - 
 * [‘This Is Quite Gay!’](https://www.nytimes.com/2019/07/06/opinion/sunday/social-media-homophobia.html), 2019 - 
 * [You’re Hired. Now Wear This Headset to Learn the Job.](https://www.nytimes.com/2019/07/10/business/microsoft-hololens-job-training.html), 2019 - 
+* [What if Being a YouTube Celebrity Is Actually Backbreaking Work?](https://www.nytimes.com/2019/07/09/style/emma-chamberlain-youtube.html), 2019 - 
