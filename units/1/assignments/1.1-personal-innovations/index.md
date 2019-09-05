@@ -2,7 +2,10 @@ Start by making a copy of the
 [Activity Guide - Personal Innovations](https://docs.google.com/document/d/1UnhtzSXXEQSDsza2UbuA6LmWVM-e4FRd9qX4oEt9PF8/edit?usp=sharing).
 When you first open it, you will not be able to edit the document. Here's what to do:
 1. From the document **File** menu choose **Make a copy** (File > Make a copy)
-1. The file name will default to "Copy of U1L01 Activity Guide - Personal Innovations." Change it to "Lastname, Firstname - U1L01 Activity Guide - Personal Innovations"
+1. The file name will default to:
+    *Copy of U1L01 Activity Guide - Personal Innovations*
+    Change it to:
+    *Lastname, Firstname - U1L01 Activity Guide - Personal Innovations*
 1. Change the folder to the "CSP/Unit 1" folder that you created on your Google Drive.
 1. Click the OK button.
 
