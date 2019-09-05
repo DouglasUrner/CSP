@@ -1,4 +1,8 @@
-Start by making a copy of the
+The first thing to do is to get your "filing system" organized. Set up folders for the class on the **U:** drive and on Google Drive. Create:
+* **U:\CSP\Unit 1**
+* And a similar folder on Google Drive.
+
+Then make a copy of the
 [Activity Guide - Personal Innovations](https://docs.google.com/document/d/1UnhtzSXXEQSDsza2UbuA6LmWVM-e4FRd9qX4oEt9PF8/edit?usp=sharing).
 When you first open it, you will not be able to edit the document. Here's what to do:
 1. From the document **File** menu choose **Make a copy** (File > Make a copy)
