@@ -1,5 +1,5 @@
 The first thing to do is to get your "filing system" organized. Set up folders for the class on the **U:** drive and on Google Drive. Create:
-* **U:\CSP\Unit 1**
+* **U:\2019-2020\CSP\Unit 1**
 * And a similar folder on Google Drive.
 
 Then make a copy of the
