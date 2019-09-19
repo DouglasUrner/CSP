@@ -8,6 +8,7 @@
 Develop a *protocol* or set of rules for communicating a simple drawing to your partners using only numbers - then demonstrate that it works using the [Internet Simulator][codestudio].
 
 ### Challenge Rules:
+<img src="assets/1.06-example-image.PNG">
 * The image will be a line drawing created by connecting points on a grid, like the one seen here.
 * You can discuss and agree on a protocol ahead of time, but the image exchange must happen without communication between the two parties other than through using the Internet Simulator.
 * You can only send a single message - a single list of numbers - through the Internet Simulator to describe the whole image.
