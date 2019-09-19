@@ -21,3 +21,7 @@ Develop a *protocol* or set of rules for communicating a simple drawing to your 
 ### Your Protocol:
 
 Use your notebook to brainstorm ideas and then write down the steps in your protocol.
+
+## Check Your Understanding
+
+After developing and testing your protocol, complete the *Check your understanding* questions.
