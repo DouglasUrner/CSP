@@ -1,2 +1,2 @@
 # CSP
-Computer Science Principles - Code.Org 2018-2019
+AP Computer Science Principles - using the Code.Org 2020-2021 curriculm.
